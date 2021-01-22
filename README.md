@@ -12,11 +12,40 @@
 
 ## Background
 
+## Development Work Mode
+
+![](./assets/dev-flow.png)
+
+## CI/CD Pipeline
+
+![](./assets/ci-pipeline.png)
+
+![](./assets/cd-pipeline.png)
+## Deployment
+
+![](./assets/delopy-diagram.png)
+
 ## Features
 
-+ :penguin:	xxxxx
+### Features - User Can Login in to System
 
-## Development Rules
+user open the login page, use can input the username and password 
+
+### Feature - Forget Password
+
+### Feature - Main framework page
+
+### Feature - Welcome Page
+
+### Feature - Security Center Page
+
+### Feature - Operation Log Page
+
+### Feature - Role Management Page
+
+### Feature - Menu Management Page
+
+### Feature - User Management Page
 
 ## Contributing
 
@@ -31,4 +60,3 @@ This project exists thanks to all the people who contribute.
 ## License
 
 [MIT](LICENSE) © x-poppy
-
