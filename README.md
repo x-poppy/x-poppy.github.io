@@ -1,6 +1,8 @@
 # poppy admin
 
-`poppy admin` is a business management web application.
+`poppy admin` is a web admin application.
+
+It's also a application system which has hight flexible customization not only the frontend side but also the backend side.
 
 :star2: Star us on GitHub — it helps! :clap:
 
@@ -12,40 +14,14 @@
 
 ## Background
 
-## Development Work Mode
-
-![](./assets/dev-flow.png)
-
-## CI/CD Pipeline
-
-![](./assets/ci-pipeline.png)
-
-![](./assets/cd-pipeline.png)
-## Deployment
-
-![](./assets/delopy-diagram.png)
+There're lots of admin application templates for front-end. But we need a common solution not only the front-end but also the server side. so the `poppy admin` comes up. `poppy admin` includes all the front-end and backend logics and give the flexible for integration. so finally we just need to focus ours own business logic side not the admin web server.
 
 ## Features
 
-### Features - User Can Login in to System
+### Easy to create a new admin application
 
-user open the login page, use can input the username and password 
+`poppy-admin` support create the application at runtime. also we can define the application's look and feel, contents and permissions.
 
-### Feature - Forget Password
-
-### Feature - Main framework page
-
-### Feature - Welcome Page
-
-### Feature - Security Center Page
-
-### Feature - Operation Log Page
-
-### Feature - Role Management Page
-
-### Feature - Menu Management Page
-
-### Feature - User Management Page
 
 ## Contributing
 
@@ -55,7 +31,7 @@ Feel free to dive in! [Open an issue for server side](https://github.com/x-poppy
 
 ### Contributors
 
-This project exists thanks to all the people who contribute. 
+This project exists thanks to all the people who contribute.
 
 ## License
 
