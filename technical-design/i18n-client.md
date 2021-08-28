@@ -44,7 +44,8 @@ Login_User_Name_Length_Validation=User Name should more than {0} characters and 
 ## I18n Key List
 
 ```bash
-Common_
+# common
+
 # login
 # parameter {0} means the min length of User_Name, {1} means the max length of User_Name
 Login_User_Name_Length_Validation=User Name should more than {0} characters and less than {1} characters
