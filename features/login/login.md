@@ -18,6 +18,22 @@ Login Page With Two-Factor popup
 
 ![Two-Factor](./assets/mockup/twofactor-popup.png)
 
+## Pages & Components & Widgets
+
++ /widgets/Login
++ /components/PageBackground
++ /pages/Login
+
+## CSS Variables
+
+link
+
+
+## I18n Keys
+
+link
+
+
 ## Acceptance Criteria
 
 + User can input the username and password in the login panel
