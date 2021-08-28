@@ -17,6 +17,7 @@ There're lots of admin application templates for front-end. But we need a common
 
 ## Technical Design
 
++ [server api path](./technical-design/server-api-path.md)
 
 ## Features
 
