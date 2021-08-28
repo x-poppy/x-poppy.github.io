@@ -20,7 +20,7 @@ Login Page With Two-Factor popup
 
 ## Acceptance Criteria
 
-[x] User can input the username and password in the login panel
++ User can input the username and password in the login panel
 > username's length is >=4 <=32
 
 > password' length is >=6 <=32
