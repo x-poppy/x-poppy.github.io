@@ -22,8 +22,13 @@ Login Page With Two-Factor popup
 
 [x] User can input the username and password in the login panel
 > username's length is >=4 <=32
+
 > password' length is >=6 <=32
+
 > password should has one capitalized character at least
+
 > password should has one special character at least
+
 > password should has one special character at least
+
 > password should has one numeric character at least
