@@ -17,7 +17,19 @@ There're lots of admin application templates for front-end. But we need a common
 
 ## Technical Design
 
-+ [server api path](./technical-design/server-api-path.md)
++ [deployment diagram] (./technical-design/deployment-diagram.md)
++ [architecture diagram] (./technical-design/architecture-diagram.md)
++ [ci/cd pipeline diagram] (./technical-design/ci-cd-pipeline-diagram.md)
+
+### Service Side
+
++ [1i8n Keys] (./technical-design/server/i18n-kyes.md)
+
+### Client Side
+
++ [1i8n Keys] (./technical-design/client/i18n-kyes.md)
++ [Components] (./technical-design/client/components.md)
++ [Widgets] (./technical-design/client/widgets.md)
 
 ## Features
 
@@ -26,7 +38,7 @@ There're lots of admin application templates for front-end. But we need a common
 
 ### Easy to create a new admin application
 
-`poppy-admin` support create the application at runtime. also we can define the application's look and feel, contents and permissions.
+`poppy-admin` support create the application at runtime. Also we can define the application's look and feel, contents and permissions.
 
 ## Contributing
 
@@ -37,6 +49,14 @@ Feel free to dive in! [Open an issue for server side](https://github.com/x-poppy
 ### Contributors
 
 This project exists thanks to all the people who contribute.
+
+Also we should follow below standards:
+
++ [Contributor Covenant Code of Conduct](http://contributor-covenant.org/version/1/3/0/)
++ [The Standard of Code Review](https://google.github.io/eng-practices/review/reviewer/standard.html)
++ [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
++ [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html)
+
 ## License
 
 [MIT](LICENSE) © x-poppy
