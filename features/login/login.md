@@ -21,7 +21,7 @@ Login Page With Two-Factor popup
 ## Pages & Components & Widgets
 
 + /widgets/Login
-+ /components/PageBackground
++ /components/Page
 + /pages/Login
 
 ## CSS Variables

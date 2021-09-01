@@ -17,9 +17,9 @@ There're lots of admin application templates for front-end. But we need a common
 
 ## Technical Design
 
-+ [deployment diagram] (./technical-design/deployment-diagram.md)
-+ [architecture diagram] (./technical-design/architecture-diagram.md)
-+ [ci/cd pipeline diagram] (./technical-design/ci-cd-pipeline-diagram.md)
++ [deployment diagram](./technical-design/deployment-diagram.md)
++ [architecture diagram](./technical-design/architecture-diagram.md)
++ [ci/cd pipeline diagram](./technical-design/ci-cd-pipeline-diagram.md)
 
 ### Service Side
 
