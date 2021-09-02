@@ -21,6 +21,7 @@ Login Page With Two-Factor popup
 ## Pages & Components & Widgets
 
 + /widgets/Login
++ /widgets/TwoFactorAuth
 + /components/Page
 + /pages/Login
 
